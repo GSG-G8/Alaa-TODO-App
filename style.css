@@ -1,0 +1,42 @@
+.container {
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    margin-top: 50px;
+  }
+  
+  .myList {
+    background-color: salmon;
+    width: 400px;
+    padding: 30px 40px;
+    text-align: center;
+  }
+  
+  .title {
+    width: 320px;
+    padding: 5px;
+    font-size: 16px;
+  }
+  
+  .submit {
+    padding: 5px;
+    width: 15%;
+    background: #d9d9d9;
+    color: #555;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  ul li {
+    cursor: pointer;
+    position: relative;
+    padding: 12px 8px 12px 40px;
+    list-style-type: none;
+    background: #eee;
+    font-size: 18px;
+    transition: 0.2s;
+    background-color: #ffe4e1;
+  }
+    
