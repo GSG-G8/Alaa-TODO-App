@@ -29,14 +29,9 @@ var todoFunctions = {
       // in the new todo array, all elements will remain unchanged except the one with id: idToMark
       // this element will have its done value toggled
       // hint: array.map
-      
-
-
-
     },
     
   };
-  
   if (typeof module !== 'undefined') {
     module.exports = todoFunctions;
   }
